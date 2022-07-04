@@ -17,6 +17,14 @@
 </channel>
 
 <channel>
+<name>[B][COLOR lime] *FILMES LANÇAMENTOS* [/COLOR][/B]</name>
+<thumbnail>https://blogger.googleusercontent.com/img/a/AVvXsEivC8y8FcFbodzBt6JntX0v4TQ_BzfsrYdraNy4IuihDjig-OOemXawuFBRs3f2e-oNAz1MjWkeUXJYXGT7SaCo_3ABpYT9vyMOKLg5uUZy8Wx6KAp4hAcGGvUBvuDkNxrf7cYbL7OfZSPxqQWx9F4YfeWBZc7Nt6r1uNIV9QXYxnT1B6cCDdR5BDHX=s1600</thumbnail>
+<externallink>https://raw.githubusercontent.com/trynyx005/NetCine/main/Filmes-Lancamentos</externallink>
+<fanart>https://blogger.googleusercontent.com/img/a/AVvXsEivC8y8FcFbodzBt6JntX0v4TQ_BzfsrYdraNy4IuihDjig-OOemXawuFBRs3f2e-oNAz1MjWkeUXJYXGT7SaCo_3ABpYT9vyMOKLg5uUZy8Wx6KAp4hAcGGvUBvuDkNxrf7cYbL7OfZSPxqQWx9F4YfeWBZc7Nt6r1uNIV9QXYxnT1B6cCDdR5BDHX=s1600</fanart>
+<info>Filmes Lançamentos</info>
+</channel>
+
+<channel>
 <name>[B][COLOR lime] *SERIES* [/COLOR][/B]</name>
 <thumbnail>https://icon-library.com/images/tv-series-icon/tv-series-icon-5.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/trynyx005/NetCine/main/Todas-as-Series</externallink>

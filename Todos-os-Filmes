@@ -200,7 +200,7 @@
 </item>
 
 <item>
-<title>[B]Soul[/B]</title>
+<title>[B] [COLOR gold] Soul [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7666ae5568ac6eb440842d673d6b333243dce47e$nome= Dublado</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8041803f89c0b44a7d8b188d30cefadec7df8498$nome= Legendado</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/bzDAfXoqNAvWUe7uss2NE3BmRqy.jpg</thumbnail>
@@ -211,7 +211,7 @@
 </item>
 
 <item>
-<title>[B]Ava[/B]</title>
+<title>[B] [COLOR gold] Ava [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c1e9a29cd7462bed36f69629afd24c3b0a69b09$nome= Dublado</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6de1a28916146057b06616fa8b57f7f2123cda31$nome= Legendado</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/6llUjNLsLiAcpIOer9LR631HPoU.jpg</thumbnail>
@@ -222,7 +222,7 @@
 </item>
 
 <item>
-<title>[B]After Depois da Verdade[/B]</title>
+<title>[B] [COLOR gold] After Depois da Verdade [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:889d3ebb8b1bc39dc8d886d48486be70a96c56da$nome= Dublado</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d12ea993f97237e224bbf8c7da2a4d995076268d$nome= Legendado</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/aduKXG7H0z0osY8KNQjcLB3cWO5.jpg</thumbnail>
@@ -233,7 +233,7 @@
 </item>
 
 <item>
-<title>[B]Homem-Aranha Longe de Casa[/B]</title>
+<title>[B] [COLOR gold] Homem-Aranha Longe de Casa [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2406f2aeae458f89c633668aed2dd28b9194618d$nome= Dublado</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2785c4334ef835b25ec1202299f768ef22f53102$nome= Legendado</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/tX0o4AdHpidgniTWwfzK0dNTKrc.jpg</thumbnail>
@@ -244,7 +244,7 @@
 </item>
 
 <item>
-<title>[B]Alerta Vermelho[/B]</title>
+<title>[B] [COLOR gold] Alerta Vermelho [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50f4b68ab771c41e49aebf8d8d1217d5b4eb02f0$nome= Dublado</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:189c8d262d74177515646eb4826fc234d538e547$nome= Legendado</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/yCusqunCMU84z32OK0kyZMnTH45.jpg</thumbnail>
@@ -255,7 +255,7 @@
 </item>
 
 <item>
-<title>[B]Aves de Rapina Arlequina e sua Emancipação Fantabulosa[/B]</title>
+<title>[B] [COLOR gold] Aves de Rapina Arlequina e sua Emancipação Fantabulosa [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:kzzsvjez3t5kgj3xrhmipwq5tqawzsag$nome= Dublado</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38fd033f1055f521c469d45515027e19d4baff0e$nome= Legendado</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/A50Ngq9lh9aCTGHC6kttrppHNoF.jpg</thumbnail>
@@ -266,7 +266,7 @@
 </item>
 
 <item>
-<title>[B]Velozes & Furiosos Hobbs & Shaw[/B]</title>
+<title>[B] [COLOR gold] Velozes & Furiosos Hobbs & Shaw [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77511e5c6055704eb53add53ddc297e25103c800$nome= Dublado</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f7ed872c0f2a9d7a890914f2f0116f7c1a56092c$nome= Legendado</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/w5HWdAJyAbfpXbXDmEt5OIpf6kQ.jpg</thumbnail>
@@ -277,7 +277,7 @@
 </item>
 
 <item>
-<title>[B]Homem-Aranha[/B]</title>
+<title>[B] [COLOR gold] Homem-Aranha [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44a2de2223eda3e0925276cc7c9ac16355eca2e6$nome= Dublado</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a452c5d40e282d216962b5423b600d1a103f8ba$nome= Legendado</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/1Q4Cf7hFbYMi3B4gmTlGOep43Qn.jpg</thumbnail>
@@ -288,7 +288,7 @@
 </item>
 
 <item>
-<title>[B]Mulher-Maravilha 1984[/B]</title>
+<title>[B] [COLOR gold] Mulher-Maravilha 1984 [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d6pyy75qsurpy7dqtxb2ypqty7mwgxop$nome= Dublado</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ca357e90498e9802e0f5e7ff5d302c19557ec0b2$nome= Legendado</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/AweDlIiohqw4sjC7gCsPVd1zo77.jpg</thumbnail>
@@ -299,7 +299,7 @@
 </item>
 
 <item>
-<title>[B]Homem-Aranha 3[/B]</title>
+<title>[B] [COLOR gold] Homem-Aranha 3 [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a865b50a751f102ef647363ca205638dadc68ce$nome= Dublado</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d2ef4ed704f999dbd5132abe44d776300cf0301c$nome= Legendado</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/63O5iixxXSmyOaBas7ek1tkeVra.jpg</thumbnail>
@@ -310,7 +310,7 @@
 </item>
 
 <item>
-<title>[B]Monster Hunter[/B]</title>
+<title>[B] [COLOR gold] Monster Hunter [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:86ce2706c05f6ebcb3f8b033a2eac7d5cd74adc6$nome= Dublado</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10baccaa2e4427a265465505bb1435381d4a55d2$nome= Legendado</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/Am1ipOQiOMrH55tCCT2ObNiF1rW.jpg</thumbnail>
@@ -321,7 +321,7 @@
 </item>
 
 <item>
-<title>[B] [COLOR purple]Venom Tempo de Carnificina [/COLOR][/B]</title>
+<title>[B] [COLOR gold] Venom Tempo de Carnificina [/COLOR][/B]</title>
 <link>https://store4.gofile.io/download/79524da7-ecc8-4a72-bf4e-85b77af4e1bc/Venom%20Let%20There%20Be%20Carnage%20(2021)%201080p%20WEB-HDRip%20Dual%20Audio%20%5BHindi%20(Clean)%20%2B%20English%5D%20x264%20AAC%20DD%202.0%20By%20Full4Movies.mkv$nome= Opção 1 Gofile</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:562b5167876d082a0c13dd4098b0c450aa45b120$nome= Torrent</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/h5UzYZquMwO9FVn15R2eK2itmHu.jpg</thumbnail>
@@ -332,7 +332,7 @@
 </item>
 
 <item>
-<title>[B] [COLOR purple]Free Guy: Assumindo o Controle [/COLOR][/B]</title>
+<title>[B] [COLOR gold] Free Guy: Assumindo o Controle [/COLOR][/B]</title>
 <link>https://www.googleapis.com/drive/v3/files/1BNptq1p86l-sDJ6zmiO6I3aP1Qo6CdcG?alt=media&key=AIzaSyA-9mbEg2m5lurw-z3-XD4O1TEiB-rxVzI$nome= Opção 1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4eld53aioal4fsrf6aj3h7fomntnoxon$nome= Torrent</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/jXlGeLOg2RKHmV9CinVaIB4ijKU.jpg</thumbnail>
@@ -343,7 +343,7 @@
 </item>
 
 <item>
-<title>[B]A Lenda de Candyman[/B]</title>
+<title>[B] [COLOR gold] A Lenda de Candyman [/COLOR][/B]</title>
 <link>https://archive.org/download/mvscollect/A%20Lenda%20de%20Candyman%202021%201080p%20BluRay%20DUAL%205.1.mkv$nome= Assistir Online (Opção 1)</link>
 <link>https://archive.org/download/mvscollect/A%20Lenda%20de%20Candyman%202021%201080p%20BluRay%20DUAL%205.1.mkv$nome= Assistir Online (Opção 2)</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3HCrzTPjnPM8vJ882weWK3w9Clt.jpg</thumbnail>
@@ -354,7 +354,7 @@
 </item>
 
 <item>
-<title>[B]Cruella[/B]</title>
+<title>[B] [COLOR gold] Cruella [/COLOR][/B]</title>
 <link>https://archive.org/download/films_202111/Cruella.2021.1080p.WEB-DL.DUAL.5.1.COMANDO.TO.mkv$nome= Assistir Online (Opção 1)</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0657a6a19541a05cacecf638445b55663acd19d7$nome= Torrent</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/rRYNGhcAZlTfIUS7iFoF4H9iDbc.jpg</thumbnail>
@@ -365,7 +365,7 @@
 </item>
 
 <item>
-<title>[B]Diretamente de Lugar Nenhum Scooby-Doo Encontra Coragem[/B]</title>
+<title>[B] [COLOR gold] Diretamente de Lugar Nenhum Scooby-Doo Encontra Coragem [/COLOR][/B]</title>
 <link>https://archive.org/download/films_202111/Diretamente%20de%20Lugar%20Nenhum%20-%20Scooby-Doo%21%20Encontra%20Coragem%202021%20WEB-DL%201080p%20DUAL%205.1.mkv$nome= Assistir Online (Opção 1)</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ps37ypxcljlxbgqyt26rhsk47zhvvywv$nome= Torrent</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/kIzMlyaIFWWkFDVbla2O10kYe1b.jpg</thumbnail>
@@ -376,7 +376,7 @@
 </item>
 
 <item>
-<title>[B]Ao Lado de Cristo[/B]</title>
+<title>[B] [COLOR gold] Ao Lado de Cristo [/COLOR][/B]</title>
 <link>https://www.googleapis.com/drive/v3/files/1du9VreVN9icpTTiIkO1Zvd5NHEoRsV9E?alt=media&key=AIzaSyA-9mbEg2m5lurw-z3-XD4O1TEiB-rxVzI$nome= Opção 1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:vb7qbo73mpvztduz6qug2ig2fiwtx3li$nome= Torrent</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/qgslCpWaZieFb463otrZIHXBiFx.jpg</thumbnail>
@@ -387,7 +387,7 @@
 </item>
 
 <item>
-<title>[B]Justiça em Família[/B]</title>
+<title>[B] [COLOR gold] Justiça em Família [/COLOR][/B]</title>
 <link>https://www.googleapis.com/drive/v3/files/1-oSD6kUH34ziRgOMv43w25aNIXwlic-z?alt=media&key=AIzaSyA-9mbEg2m5lurw-z3-XD4O1TEiB-rxVzI$nome= Opção 1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:h64ieiorv73xpyzwhm5zmt3bzjaqgn47$nome= Torrent</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cygRJp2OQKsiGbJxKq5TbvzW9QR.jpg</thumbnail>
@@ -398,7 +398,7 @@
 </item>
 
 <item>
-<title>[B]O Esquadrão Suicida[/B]</title>
+<title>[B] [COLOR gold] O Esquadrão Suicida [/COLOR][/B]</title>
 <link>https://www.googleapis.com/drive/v3/files/134VBx0yJNtWKsTqhpz1XgSDmvVsowDug?alt=media&key=AIzaSyA-9mbEg2m5lurw-z3-XD4O1TEiB-rxVzI$nome= Opção 1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ftovymlad4vbdnot5xibea4nbyw2gdev$nome= Torrent</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wTS3dS2DJiMFFgqKDz5fxMTri.jpg</thumbnail>
@@ -409,7 +409,7 @@
 </item>
 
 <item>
-<title>[B]A Guerra do Amanhã[/B]</title>
+<title>[B] [COLOR gold] A Guerra do Amanhã [/COLOR][/B]</title>
 <link>https://www.googleapis.com/drive/v3/files/1xahcN2qfMYq5L-EfhlVa29P1YcnZ-ngf?alt=media&key=AIzaSyA-9mbEg2m5lurw-z3-XD4O1TEiB-rxVzI$nome= Opção 1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9dbe10e1ca8fa7e8711d7e7e650d5885888083fe$nome= Torrent</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lWQ3hI78Az2RHfzDpEuvougqUz7.jpg</thumbnail>
@@ -420,7 +420,7 @@
 </item>
 
 <item>
-<title>[B]Yara[/B]</title>
+<title>[B] [COLOR gold] Yara [/COLOR][/B]</title>
 <link>https://www.googleapis.com/drive/v3/files/1H8XBYCSYzKJ3hPYNeAftysH86Mze5bvj?alt=media&key=AIzaSyA-9mbEg2m5lurw-z3-XD4O1TEiB-rxVzI$nome= Opção 1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ifv3sec74zbkyd7btmjhrxukidsm5v4$nome= Torrent</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/qRllCnVXSfOH665gWxOL4V6cj8b.jpg</thumbnail>
@@ -431,7 +431,7 @@
 </item>
 
 <item>
-<title>[B]Jogo Perigoso - O Filme[/B]</title>
+<title>[B] [COLOR gold] Jogo Perigoso - O Filme [/COLOR][/B]</title>
 <link>https://www.googleapis.com/drive/v3/files/1XGu4yxsvbghBmHxjvZqh6pbtB0USlflC?alt=media&key=AIzaSyA-9mbEg2m5lurw-z3-XD4O1TEiB-rxVzI$nome= Opção 1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed5144ca9d9e073e52a6b182b9a9d8d7d1c0fe01&dn=VACATORRENT.COM..MKV.Jogo%20Perigoso%202021%201080p%20WEB-DL%20DUAL%205.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.internetwarriors.net%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fwww.torrent.eu.org%3a451%2fannounce$nome= Torrent</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/49vHdPwKsAMhAfhrwaKdFfcXM7S.jpg</thumbnail>
@@ -442,7 +442,7 @@
 </item>
 
 <item>
-<title>[B]O Poderoso Chefinho 2: Negócios da Família[/B]</title>
+<title>[B] [COLOR gold] O Poderoso Chefinho 2: Negócios da Família [/COLOR][/B]</title>
 <link>https://www.googleapis.com/drive/v3/files/1LppGQU_xYPisrfdRpy8Vs3TM5KguziL_?alt=media&key=AIzaSyA-9mbEg2m5lurw-z3-XD4O1TEiB-rxVzI$nome= Opção 1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:pjdoofksz6jmqdwmyjxyafx6fsqknljx$nome= Torrent</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/p033k6k8V9USI0TWZavIxoYzsGi.jpg</thumbnail>
@@ -453,7 +453,7 @@
 </item>
 
 <item>
-<title>[B]Cantando de Galo: O Resgate dos Ovinhos[/B]</title>
+<title>[B] [COLOR gold] Cantando de Galo: O Resgate dos Ovinhos [/COLOR][/B]</title>
 <link>https://www.googleapis.com/drive/v3/files/1kTGKNtX9RGOhI7glQ1VGDMdypfNlsD5T?alt=media&key=AIzaSyA-9mbEg2m5lurw-z3-XD4O1TEiB-rxVzI$nome= Opção 1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:i6litk7mbgsysvosd7fqb3ckn36hz3qg$nome= Torrent</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/KPVw3cVSyLq5B00Cik5ux3Iczy.jpg</thumbnail>
@@ -464,7 +464,7 @@
 </item>
 
 <item>
-<title>[B]Alerta Vermelho[/B]</title>
+<title>[B] [COLOR gold] Alerta Vermelho [/COLOR][/B]</title>
 <link>https://www.googleapis.com/drive/v3/files/1A-5B0qhEGOHzkMQZVN9tISzhsiQtNpLx?alt=media&key=AIzaSyA-9mbEg2m5lurw-z3-XD4O1TEiB-rxVzI$nome= Opção 1</link>
 <link>plugin://plugin.video.elementum/play?uri=$nome= Embreve</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/pe17f8VDfzbvbHSAKAlcORtBHmW.jpg</thumbnail>
@@ -475,7 +475,7 @@
 </item>
 
 <item>
-<title>[B]Eternos[/B]</title>
+<title>[B] [COLOR gold] Eternos [/COLOR][/B]</title>
 <link>https://www.googleapis.com/drive/v3/files/1A4hNN_W2rHsJwa7Idt_bfVjBlyozq-1d?alt=media&key=AIzaSyA-9mbEg2m5lurw-z3-XD4O1TEiB-rxVzI$nome= Opção 1</link>
 <link>plugin://plugin.video.elementum/play?uri=$nome= Embreve</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/eDHOutMxLMgComnVhUK0Xfwunu5.jpg</thumbnail>
@@ -486,7 +486,7 @@
 </item>
 
 <item>
-<title>[B]Amina[/B]</title>
+<title>[B] [COLOR gold] Amina [/COLOR][/B]</title>
 <link>https://www.googleapis.com/drive/v3/files/1foFlcZW0CV6fhaMLot5QeoTnimai1gPo?alt=media&key=AIzaSyA-9mbEg2m5lurw-z3-XD4O1TEiB-rxVzI$nome= Opção 1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:lbfevtc5hzzguz2mvn74w4ijmfnevpwe$nome= Torrent</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/gII53HAH7UA1yx189vROMzWA5ib.jpg</thumbnail>
@@ -497,7 +497,7 @@
 </item>
 
 <item>
-<title>[B]Shang-Chi e a Lenda dos Dez Anéis[/B]</title>
+<title>[B] [COLOR gold] Shang-Chi e a Lenda dos Dez Anéis [/COLOR][/B]</title>
 <link>https://www.googleapis.com/drive/v3/files/1hwgAJWQGIzK7cCt-U8hr2w4hgBeZQqP5?alt=media&key=AIzaSyA-9mbEg2m5lurw-z3-XD4O1TEiB-rxVzI$nome= Opção 1</link>
 <link>plugin://plugin.video.elementum/play?uri=$nome= Embreve</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/ArrOBeio968bUuUOtEpKa1teIh4.jpg</thumbnail>
@@ -508,7 +508,7 @@
 </item>
 
 <item>
-<title>[B]Entre Tiros e Beijos[/B]</title>
+<title>[B] [COLOR gold] Entre Tiros e Beijos [/COLOR][/B]</title>
 <link>https://www.googleapis.com/drive/v3/files/1NaEfuY2ZEc1DAQdKpg9iq7diH_lt4PB7?alt=media&key=AIzaSyA-9mbEg2m5lurw-z3-XD4O1TEiB-rxVzI$nome= Opção 1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cs2p7hbtcvkibnuen4hpimeumyfvcvzm$nome= Torrent</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/1ylyVg32Mt2zdOJCECG1voYny90.jpg</thumbnail>
@@ -519,7 +519,7 @@
 </item>
 
 <item>
-<title>[B]Spin[/B]</title>
+<title>[B] [COLOR gold] Spin [/COLOR][/B]</title>
 <link>https://www.googleapis.com/drive/v3/files/1hkiRN2TUJoJrz8GoToV6BieiJmh9bjiX?alt=media&key=AIzaSyA-9mbEg2m5lurw-z3-XD4O1TEiB-rxVzI$nome= Opção 1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:i2eisoziuyxigvzl6rhi3kj34j6utqgb$nome= Torrent</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/iWAatef80X3zooIBQN0Y4tQCM1K.jpg</thumbnail>
@@ -530,7 +530,7 @@
 </item>
 
 <item>
-<title>[B]The Deep House[/B]</title>
+<title>[B] [COLOR gold] The Deep House [/COLOR][/B]</title>
 <link>https://www.googleapis.com/drive/v3/files/1zZrIUTMM3zzG3FyY6ZJaB9iIkYUaW2kW?alt=media&key=AIzaSyA-9mbEg2m5lurw-z3-XD4O1TEiB-rxVzI$nome= Opção 1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7piegbdys7pnsh2z4dytdcpm4ybxvmix$nome= Torrent</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/52E0LGcMKHOO91P4j6hdHKVwITP.jpg</thumbnail>
@@ -541,7 +541,7 @@
 </item>
 
 <item>
-<title>[B]Duna[/B]</title>
+<title>[B] [COLOR gold] Duna [/COLOR][/B]</title>
 <link>https://https://archive.org/download/films_202111/Duna%202021%201080p%20WEB-DL%20MP4%20DUAL.mp4$nome= Assistir Online (Opção 1)</link>
 <link>https://www.googleapis.com/drive/v3/files/1s6O6Vg3B_mM2_JBPsrhVLl5lw3WhtUuV?alt=media&key=AIzaSyA-9mbEg2m5lurw-z3-XD4O1TEiB-rxVzI$nome= Assistir Online (Opção 2)</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:pv4eipue733df372ndo233meelmqcgdh$nome= Torrent</link>
@@ -553,7 +553,7 @@
 </item>
 
 <item>
-<title>[B]Tempo[/B]</title>
+<title>[B] [COLOR gold] Tempo [/COLOR][/B]</title>
 <link>https://www.googleapis.com/drive/v3/files/1Eap0wae8_EpfiN9Z3FtKsi-TLhuSNINL?alt=media&key=AIzaSyA-9mbEg2m5lurw-z3-XD4O1TEiB-rxVzI$nome= Opção 1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1f3c4bab42e9579e58a6a5bab9147ba57634e332&dn=Tempo%202021%201080p%20BluRay%20DUAL%205.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.internetwarriors.net%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fwww.torrent.eu.org%3a451%2fannounce$nome= Torrent</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/usiW9HU9khLoa1aP4GvX9J6up5M.jpg</thumbnail>
 <fanart>https://multiversonoticias.com.br/wp-content/uploads/2021/07/tempo-capa.png</fanart>
@@ -563,7 +563,7 @@
 </item>
 
 <item>
-<title>[B]Viúva Negra[/B]</title>
+<title>[B] [COLOR gold] Viúva Negra [/COLOR][/B]</title>
 <link>https://www.googleapis.com/drive/v3/files/1LkAA523zZUCqaSWSWVKEqQ0HE5w5Oey4?alt=media&key=AIzaSyA-9mbEg2m5lurw-z3-XD4O1TEiB-rxVzI$nome= Opção 1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:lsdq5mdlypdtt5nlk7zhydl6thsw2smm$nome= Torrent</link><thumbnail>https://image.tmdb.org/t/p/w342/rKq1Vlw0Bqe2EEvdmIkkkgPQAGf.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w342/rKq1Vlw0Bqe2EEvdmIkkkgPQAGf.jpg</fanart>

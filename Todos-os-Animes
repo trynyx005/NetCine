@@ -1,15 +1,15 @@
 <channels>
 
 <channel>
-<name>[B][COLOR yellow] *Ação* [/COLOR][/B]</name>
-<thumbnail>https://d17lbu6bbzbdc8.cloudfront.net/wp-content/uploads/2020/12/27092153/Fantasy-Anime.jpg</thumbnail>
+<name>[B][COLOR yellow] Ação [/COLOR][/B]</name>
+<thumbnail>https://i.pinimg.com/originals/cc/57/d7/cc57d7d20a9b71661f398d4208ba4228.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/trynyx005/NetCine/main/Animes/acao</externallink>
-<fanart>https://d17lbu6bbzbdc8.cloudfront.net/wp-content/uploads/2020/12/27092153/Fantasy-Anime.jpg</fanart>
+<fanart>https://i.pinimg.com/originals/cc/57/d7/cc57d7d20a9b71661f398d4208ba4228.jpg</fanart>
 <info>Animes de Ação</info>
 </channel>
 
 <channel>
-<name>[B][COLOR yellow] *Aventura* [/COLOR][/B]</name>
+<name>[B][COLOR yellow] Aventura [/COLOR][/B]</name>
 <thumbnail>https://ovicio.com.br/wp-content/uploads/2022/03/20220321-ovicio-one-piece-manga-1024x536.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/trynyx005/NetCine/main/Animes/aventura</externallink>
 <fanart>https://ovicio.com.br/wp-content/uploads/2022/03/20220321-ovicio-one-piece-manga-1024x536.jpg</fanart>
@@ -17,7 +17,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR yellow] *Fantasia* [/COLOR][/B]</name>
+<name>[B][COLOR yellow] Fantasia [/COLOR][/B]</name>
 <thumbnail>https://newesc.com/wp-content/uploads/Los-Mejores-Animes-de-Invierno-2017-585x600.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/trynyx005/NetCine/main/Animes/fantasia</externallink>
 <fanart>https://newesc.com/wp-content/uploads/Los-Mejores-Animes-de-Invierno-2017-585x600.jpg</fanart>
@@ -25,7 +25,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR yellow] *Harém* [/COLOR][/B]</name>
+<name>[B][COLOR yellow] Harém [/COLOR][/B]</name>
 <thumbnail>https://yokaipop.com.br/wp-content/uploads/2017/04/52027_grisaia_no_kajitsu.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/trynyx005/NetCine/main/Animes/harem</externallink>
 <fanart>https://yokaipop.com.br/wp-content/uploads/2017/04/52027_grisaia_no_kajitsu.jpg</fanart>
@@ -33,7 +33,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR yellow] *Isekai* [/COLOR][/B]</name>
+<name>[B][COLOR yellow] Isekai [/COLOR][/B]</name>
 <thumbnail>https://static.anime21.blog.br/2018/06/Image__828752_1490670806.jpeg</thumbnail>
 <externallink>https://raw.githubusercontent.com/trynyx005/NetCine/main/Animes/isekai</externallink>
 <fanart>https://static.anime21.blog.br/2018/06/Image__828752_1490670806.jpeg</fanart>

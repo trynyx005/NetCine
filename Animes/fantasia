@@ -1,15 +1,89 @@
 <channels>
 
 <channel>
-<title>[B][COLOR gold] Arifureta Shokugyou de Sekai Saikyou 1 Temporada [/COLOR][/B]</title>
-<link>https://raw.githubusercontent.com/trynyx005/NetCine/main/Animes-Channels/arifureta</link>
+<name>[B][COLOR gold]Arifureta Shokugyou de Sekai Saikyou[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Z4799yZOHO6634NRekxo5aAeHK.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/trynyx005/NetCine/main/Animes-Channels/arifureta</externallink>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Z4799yZOHO6634NRekxo5aAeHK.jpg</fanart>
 <info>Arifureta Shokugyou de Sekai Saikyou Todos os Episodios Online, Assistir Arifureta Shokugyou de Sekai Saikyou Anime Completo Online.
 Na história Hajime Nagumo, de 17 anos, é um simples otaku. No entanto, sua vida simples de madrugar e dormir na escola de repente é virada de cabeça para baixo quando ele, juntamente com o resto de sua classe, é convocado para um mundo de fantasia! Eles são tratados como heróis e encarregados do dever de salvar a raça humana da extinção. Mas o que deveria ter sido o sonho de qualquer otaku rapidamente se transforma no pesadelo de Hajime. Enquanto o resto de sua turma é abençoado com poderes divinos, a classe de Hajime, Synergist, tem apenas uma habilidade de transmutação única.
 Ridicularizado e intimidado por seus colegas de classe por ser fraco, ele logo se encontra em desespero. Será que ele poderá sobreviver neste mundo perigoso de monstros e demônios com apenas um nível de força glorificado do ferreiro? Em determinado momento, ele cai no fundo de uma Dungeon. Para sair de lá, ele terá que abandonar completamente seu eu fraco e ingênuo do passado.</info>
 <genre>Ação, Aventura, Fantasia, Harém, Isekai</genre>
 <year>2019</year>
+</channel>
+
+
+<channel>
+<name>[B][COLOR gold] Tensai Ouji no Akaji Kokka Saisei Jutsu [/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/wcUTzxybqnchOZtX1FlUJAoAydj.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/trynyx005/NetCine/main/Animes-Channels/tensai-ouji</externallink>
+<fanart>https://image.tmdb.org/t/p/original/wcUTzxybqnchOZtX1FlUJAoAydj.jpg</fanart>
+<info>Arifureta O príncipe deste pequeno e fraco reino se esforça apenas por uma coisa: vender seu país e viver uma vida tranquila! Infelizmente, o maior obstáculo que ele enfrenta é sua mente brilhante… conforme ele continua a fazer conquistas cada vez mais impressionantes, ele também aumenta o favorecimento do povo de seu reino! Isso complicará ainda mais a realização do seu sonho.</info>
+<genre>Comédia Fantasia Harém</genre>
+<year>2022</year>
+</channel>
+
+
+<channel>
+<name>[B][COLOR white]Fundação[/COLOR][/B]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qzM97zqip5u7qq88aBkiGRBdYXC.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/S%C3%A9ries/funda%C3%A7%C3%A3o</externallink>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qzM97zqip5u7qq88aBkiGRBdYXC.jpg</fanart>
+<info>Inspirada nos premiados romances de Isaac Asimov, Fundação retrata a épica jornada espacial de um grupo de exilados tentando salvar a humanidade durante a queda do Império Galáctico.</info>
+<genre>Drama, Ficção</genre>
+<year>2021</year>
+</channel>
+
+
+<channel>
+<name>[B][COLOR white]Invasão[/COLOR][/B]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2faxNZj5iHQOiDdPzCHCDvjTEnW.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/S%C3%A9ries/invas%C3%A3o</externallink>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2faxNZj5iHQOiDdPzCHCDvjTEnW.jpg</fanart>
+<info>Uma visita extraterrestre ameaça a existência humana. Os impactos a dessa chegada são acompanhados em tempo real por cinco pessoas comuns. Em cantos diferentes do planeta, elas tentam encontrar sentido em meio ao caos.</info>
+<genre>Drama, Fantasia, Ficção</genre>
+<year>2021</year>
+</channel>
+
+<channel>
+<name>[B][COLOR white]História de Horror Americana[/COLOR][/B]</name>
+<thumbnail>https://www.einerd.com.br/wp-content/uploads/2020/02/American-Horror-Story-capa.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/S%C3%A9ries/american%20horror%20story</externallink>
+<fanart>https://www.einerd.com.br/wp-content/uploads/2020/02/American-Horror-Story-capa.jpg</fanart>
+<info>É uma série de televisão norte-americana de terror-drama. Descrita como uma série antológica, cada temporada é concebida como uma minissérie independente, seguindo um conjunto de personagens e ambientações distintas, e um enredo com o seu próprio “começo, meio e fim.</info>
+<genre>Drama, Suspense, Terror</genre>
+<year>2011</year>
+</channel>
+
+
+<channel>
+<name>[B][COLOR white]Lupin[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/5Hke4jkFgD0loC6QBY7ym235Hq.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/S%C3%A9ries/lupin</externallink>
+<fanart>https://image.tmdb.org/t/p/w342/5Hke4jkFgD0loC6QBY7ym235Hq.jpg</fanart>
+<info>Na adolescência, a vida de Assane Diop dá uma guinada radical quando seu pai morre após ser acusado de um crime que não cometeu. Vinte e cinco anos depois, Assane se inspira em “Arsène Lupin, o Ladrão de Casaca” para vingá-lo.</info>
+<genre>Crime, Drama, Suspense</genre>
+<year>2021</year>
+</channel>
+
+<channel>
+<name>[B][COLOR white]O Conto de Aia[/COLOR][/B]</name>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa2TAvOmaYgR18GQGnbCRRb4t8bDf9QmhVVg&usqp=CAU</thumbnail>
+<externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/S%C3%A9ries/o%20conto%20de%20aia</externallink>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa2TAvOmaYgR18GQGnbCRRb4t8bDf9QmhVVg&usqp=CAU</fanart>
+<info>Gilead tem um regime que trata mulheres como propriedade. Offred é uma das poucas mulheres férteis e serva do Comandante, buscando sobreviver e encontrar a filha que foi tirada dela.</info>
+<genre>Ficção Científica</genre>
+<year>2017</year>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Round 6[/COLOR][/B]</name>
+<thumbnail>https://br.web.img3.acsta.net/pictures/21/09/14/18/49/5442347.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/S%C3%A9ries/round%206</externallink>
+<fanart>https://br.web.img3.acsta.net/pictures/21/09/14/18/49/5442347.jpg</fanart>
+<info>Round 6, série sul-coreana original da Netflix, acompanha um grupo de pessoas desesperadas por dinheiro que recebem um misterioso convite para participar de jogos competitivos inspirados em bricandeiras infantis. Ao final do jogo, o vencedor poderá levar para casa um prêmio milionário e resolver todas as suas dívidas. Porém, o que eles não sabem é que os perdedores não saíram vivos. Agora essas pessoas precisaram lutar para sobreviver a essa macabra competição.</info>
+<genre>Aventura, Drama, Terror, Ficção científica, Suspense</genre>
+<year>2021</year>
 </channel>
 
 </channels>

@@ -1,4 +1,14 @@
 <item>
+<title>[B]O Souvenir: Parte II 2022[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IV3LVT6FBDNYR64N6LG55XFQIZQXCJAZ&dn=The%20Souvenir%20-%20Part%20II%202021%201080p%20x265%20BluRay%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce$nome= Torrent</link>
+<thumbnail>https://image.tmdb.org/t/p/w500//ayMDun9vLHWclIN6bXitRlCrLII.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w500//ayMDun9vLHWclIN6bXitRlCrLII.jpg</fanart>
+<info>No rescaldo de seu relacionamento tumultuado com um homem mais velho carismático e manipulador, Julie começa a desvendar seu amor por ele ao fazer seu filme de formatura, separando fatos de sua ficção elaboradamente construída. A brilhante história do primeiro amor de Joanna Hogg e os anos de formação de uma jovem.</info>
+<genre>Drama, Romance</genre>
+<year>2022</year>
+</item>
+
+<item>
 <title>[B]Entre Tiros e Beijos[/B]</title>
 <link>https://www.googleapis.com/drive/v3/files/1NaEfuY2ZEc1DAQdKpg9iq7diH_lt4PB7?alt=media&key=AIzaSyA-9mbEg2m5lurw-z3-XD4O1TEiB-rxVzI$nome= Opção 1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cs2p7hbtcvkibnuen4hpimeumyfvcvzm$nome= Torrent</link>
@@ -32,3 +42,13 @@
 <year>2020</year>
 </item>
 
+<item>
+<title>[B] [/B]</title>
+<link> $nome= Opção 1</link>
+<link>plugin://plugin.video.elementum/play?uri= $nome= Torrent</link>
+<thumbnail> </thumbnail>
+<fanart> </fanart>
+<info> </info>
+<genre> </genre>
+<year> </year>
+</item>
